@@ -37,9 +37,10 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
-  
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
   
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
@@ -125,10 +126,6 @@
   
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
